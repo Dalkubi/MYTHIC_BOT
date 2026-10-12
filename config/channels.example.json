@@ -1,0 +1,13 @@
+{
+  "서버(길드) ID": {
+    "createChannelIds": ["트리거 음성채널 ID", "트리거 음성채널 ID"],
+    "channelLabels": {
+      "트리거 음성채널 ID": "정규 / 기밀 / 극비 / 전면전 / 폭파전 / 자유 중 하나"
+    },
+    "createCategoryId": "",
+    "joinLogChannelId": "입장 로그 텍스트채널 ID",
+    "leaveLogChannelId": "퇴장 로그 텍스트채널 ID",
+    "introChannelId": "자기소개 텍스트채널 ID",
+    "opsLogChannelId": "봇 운영 알림 텍스트채널 ID"
+  }
+}

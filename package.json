@@ -1,0 +1,19 @@
+{
+  "name": "discord-community-bot",
+  "version": "1.0.0",
+  "description": "게임 커뮤니티 디스코드 봇 - 임시 통화방 자동 생성/관리, 입퇴장 로그, 자기소개 안내",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.0",
+    "dotenv": "^16.4.5"
+  }
+}
